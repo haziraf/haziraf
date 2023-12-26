@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haziraf
-- 👀 I’m interested in Artificial Intelligence, Data Analytics and Sciences.
+- 👀 I’m interested in Artificial Intelligence, Data Analytics and Data Sciences.
 - 🌱 I’m currently learning a lot of things!
 
 <!---
