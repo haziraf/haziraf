@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haziraf
+- 👋 Hi, I’m @haziraf. I accidentally deleted my old github account @hazirafidi. This is the recovery account and my repo.
 - 👀 I’m interested in Artificial Intelligence, Data Analytics and Data Sciences.
 - 🌱 I’m currently learning a lot of things!
 
